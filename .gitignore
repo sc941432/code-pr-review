@@ -1,0 +1,10 @@
+# Windows junk
+*:Zone.Identifier
+Thumbs.db
+Desktop.ini
+
+# macOS junk
+.DS_Store
+
+# VS Code
+.vscode/
