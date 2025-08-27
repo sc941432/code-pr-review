@@ -6,7 +6,6 @@
 *   **Pull Request Summarization**: Generates concise summaries of PR changes, including categorization (feature, fix, etc.) and identification of major files.
 *   **Code Change Summarization**: Summarizes individual file diffs.
 *   **Code Review Suggestions**: Provides feedback and suggestions on code changes (experimental).
-*   **Multi-language Support**: Includes templates for English and Chinese reports.
 *   **Platform Support**: Works with GitHub and GitLab.
 *   **Automated Code Review**: Uses LLMs to analyze code changes, provide feedback, and suggest improvements
 *   **Scoring System**: Evaluates code across multiple dimensions, including correctness, readability, and maintainability
