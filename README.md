@@ -1,10 +1,5 @@
-# Codedog: AI-Powered Code Review Assistant
+# Code-pr-review: AI-Powered Code Review Assistant
 
-[![Python Version](https://img.shields.io/pypi/pyversions/codedog)](https://pypi.org/project/codedog/)
-[![PyPI Version](https://img.shields.io/pypi/v/codedog.svg)](https://pypi.org/project/codedog/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-Codedog leverages Large Language Models (LLMs) like GPT to automatically review your pull requests on platforms like GitHub and GitLab, providing summaries and potential suggestions.
 
 ## Features
 
@@ -195,11 +190,3 @@ poetry run pytest
     poetry run flake8 .
     ```
 *   **Dependencies**: Managed via `poetry`. Use `poetry add <package>` to add new dependencies.
-
-## Contributing
-
-Contributions are welcome! Please refer to the project's contribution guidelines (if available) or open an issue/PR on the repository.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
