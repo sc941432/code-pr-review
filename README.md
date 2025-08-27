@@ -10,9 +10,9 @@
 *   **Platform Support**: Works with GitHub and GitLab.
 *   **Automated Code Review**: Uses LLMs to analyze code changes, provide feedback, and suggest improvements
 *   **Scoring System**: Evaluates code across multiple dimensions, including correctness, readability, and maintainability
-*   **Multiple LLM Support**: Works with OpenAI (including GPT-4o), Azure OpenAI, DeepSeek, and DeepSeek R1 models (see [Models Guide](docs/models.md))
-*   **Email Notifications**: Sends code review reports via email (see [Email Setup Guide](docs/email_setup.md))
-*   **Commit-Triggered Reviews**: Automatically reviews code when commits are made (see [Commit Review Guide](docs/commit_review.md))
+*   **Multiple LLM Support**: Works with OpenAI (including GPT-4o), Azure OpenAI, DeepSeek, and DeepSeek R1 models.
+*   **Email Notifications**: Sends code review reports via email.
+*   **Commit-Triggered Reviews**: Automatically reviews code when commits are made.
 *   **Developer Evaluation**: Evaluates a developer's code over a specific time period
 
 ## Prerequisites
